@@ -1,2 +1,1 @@
-# piko_tools
-A set of useful tools for software engineers driven by https://pikotutorial.com/
+This repository is dedicated to demo versions, free packages and bonus components of products available at [piko::tools store](https://pikotools.gumroad.com).

@@ -1,0 +1,9 @@
+[submodule "expanen_py"]
+	path = expanen_py
+	url = git@github.com:pikotutorial/expanen_py.git
+[submodule "pybedded"]
+	path = pybedded
+	url = git@github.com:pikotutorial/pybedded.git
+[submodule "piko_snippets"]
+	path = piko_snippets
+	url = git@github.com:pikotutorial/piko_snippets.git

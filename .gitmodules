@@ -7,3 +7,6 @@
 [submodule "piko_snippets"]
 	path = piko_snippets
 	url = git@github.com:pikotutorial/piko_snippets.git
+[submodule "piko_ai"]
+	path = piko_ai
+	url = git@github.com:pikotutorial/piko_ai.git
